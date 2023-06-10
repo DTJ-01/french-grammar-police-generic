@@ -2,6 +2,6 @@
 
 *Je suis uniquement l'auteur des ces traductions Françaises.*
 
-![alt text]([https://i.gyazo.com/02251dbc1e51f6ac4f5f53f46cc11465.jpg])
+![alt text](https://i.gyazo.com/02251dbc1e51f6ac4f5f53f46cc11465.jpg)
 
 
