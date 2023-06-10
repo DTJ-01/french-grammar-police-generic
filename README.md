@@ -1,2 +1,3 @@
-# french-grammar-police-generic
-Traduction généric de Grammar Police fait par @opus49 et @BenH
+# Traduction généric de Grammar Police développer par @opus49 et @BenH
+
+*Je suis uniquement l'auteur des ces traductions Françaises.*
