@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>radiocheck</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>Vérification radio demandée</string>
+        <string>Demande vérification radio</string>
+        <string>Demande contrôle radio</string>
+        <string>Contrôle radio demandé</string>
+        <string>Vérification radio sollicitée</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.RadioCheck</Target>
+</Action>

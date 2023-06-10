@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>officerdown</Name>
+	    <Commands>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+        <string>officier au sol</string>
+        <string>officier a terre</string>
+        <string>officier mort</string>
+        <string>officier décéder</string>
+		<string>agent au sol</string>
+        <string>agent a terre</string>
+        <string>agent mort</string>
+        <string>agent décéder</string>
+		<string>policier au sol</string>
+        <string>policier a terre</string>
+        <string>policier mort</string>
+        <string>policier décéder</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.OfficerDown</Target>
+</Action>

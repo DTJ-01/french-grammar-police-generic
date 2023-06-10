@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+	<Name>copy</Name>
+	<Phrases>
+		<string>bien reçu</string>
+		<string>reçu</string>
+	</Phrases>
+	<Target>GrammarPolice.Actions.Interactions.Copy</Target>
+</Action>

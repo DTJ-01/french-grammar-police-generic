@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>occupied_2</Name>   
+    <Commands>
+        <string>occupied</string>
+    </Commands>
+    <Phrases>
+        <string>un occupant pas de soutien</string>
+        <string>deux occupant de soutien</string>
+        <string>trois occupant pas de soutien</string>
+        <string>quatre occupant pas de soutien</string>
+        <string>un occupant pas de renfort</string>
+        <string>deux occupant pas de renfort</string>
+        <string>trois occupant pas de renfort</string>
+        <string>quatre occupant pas de renfort</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+    <Parameters>
+        <Parameter>
+            <Type>System.Int32</Type>
+            <Value>2</Value>
+        </Parameter>
+    </Parameters>
+</Action>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+	<Name>no</Name>
+	<Phrases>
+		<string>négatif</string>
+		<string>non</string>
+	</Phrases>
+	<Target>GrammarPolice.Actions.Interactions.No</Target>
+</Action>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>pit</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>d'effectuer un pit</string>
+		<string>un pit</string>
+		<string>de pit</string>
+        <string>manoeuvre d'immobilisation</string>
+        <string>tactique d'immobilisation</string>
+        <string>manoeuvre d'arrêt forcé</string>
+		<string>pit</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Pit</Target>
+</Action>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>priority_tone</Name>
+	 <Commands>
+        <string>request</string>
+    </Commands>
+	 <Phrases>
+        <string>Signal prioritaire</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Advisory.PriorityTone</Target>
+</Action>

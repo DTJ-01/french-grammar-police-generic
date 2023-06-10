@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>vehicle</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>véhicule</string>
+        <string>un véhicule</string>
+        <string>une voiture</string>
+        <string>voiture</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Vehicle</Target>
+</Action>

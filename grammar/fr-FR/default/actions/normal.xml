@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>normal</Name>
+	 <Phrases>
+        <string>tout ok</string>
+        <string>tout est ok</string>
+		 <string>tout est bon</string>
+		 <string>tout est normal</string>
+        <string>je vais bien</string>
+        <string>je suis ok</string>
+        <string>je suis normal</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Interactions.Normal</Target>
+</Action>

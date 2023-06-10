@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>AAIC_Response</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+		<string>répond également</string>
+		<string>également en route</string>
+		<string>en route également</string>
+		<string>répond aussi</string>
+		<string>répond avec</string> <!-- 1-L-24 -->
+		<string>en route avec</string> <!-- 1-L-24 -->
+    </Phrases>
+    <Target>AmbientAICallouts.API.Functions.AAIC_Response</Target>
+</Action>

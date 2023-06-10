@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>yes</Name>
+		<Phrases>
+			<string>affirmatif</string>
+			<string>oui</string>
+		</Phrases>
+    <Target>GrammarPolice.Actions.Interactions.Yes</Target>
+</Action>

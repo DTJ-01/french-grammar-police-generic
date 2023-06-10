@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>traffic_control_stop</Name>
+		 <Commands>
+        <string>request</string>
+    </Commands>
+	 <Phrases>
+        <string>arrêt circulation</string>
+        <string>stoper circulation</string>
+        <string>stoper traffic</string>
+        <string>arrêt traffic</string>
+        <string>arrêter traffic</string>
+        <string>Cesser traffic</string>
+        <string>Cesser circulation</string>
+        <string>Interrompre circulation</string>
+        <string>Interrompre traffic</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Traffic.Stop</Target>
+</Action>

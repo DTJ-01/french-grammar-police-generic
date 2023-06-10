@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>traffic_control_clear</Name>
+	 <Commands>
+        <string>request</string>
+    </Commands>
+	 <Phrases>
+        <string>traffic normal</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Traffic.Clear</Target>
+</Action>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>panic</Name>
+    <Phrases>
+        <string>officer sous le feu</string>
+        <string>officer sous les tires</string>
+        <string>code quatre vingt dix neuf</string>
+		<string>aux secours</string>
+		<string>a l'aide</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Panic</Target>
+</Action>

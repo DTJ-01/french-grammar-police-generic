@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+	<Name>taser</Name>
+	<Commands>
+		<string>advisory</string>
+	</Commands>
+	<Phrases>
+		<string>taser déployer</string>
+		<string>taser sortie</string>
+		<string>taser utilise</string>
+	</Phrases>
+	<Target>GrammarPolice.Actions.Backup.Code3</Target>
+</Action>

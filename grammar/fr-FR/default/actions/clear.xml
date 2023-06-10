@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>clear</Name>
+	    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+                    <string>code quatre</string>
+                    <string>quatre</string>
+					<string>zone sécurisée</string>
+					<string>secteur sécurisée</string>
+					<string>rien a signaler</string>
+					<string>R A S</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.Code4</Target>
+</Action>
