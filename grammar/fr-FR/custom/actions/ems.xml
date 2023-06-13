@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+	<Name>ems</Name>
+	<Commands>
+		<string>request</string>
+	</Commands>
+	<Phrases>
+		<string>ambulance</string>
+		<string>service medical</string>
+		<string>service medical d'urgence</string>
+		<string>service de soin</string>
+		<string>EMS</string>
+	</Phrases>
+	<Target>BetterEMS.API.EMSFunctions.RespondToLocation</Target>
+	<Parameters>
+		<Parameter>
+			<Type>Rage.Vector3</Type>
+			<Value>player</Value>
+		</Parameter>
+	</Parameters>
+</Action>
+<!-- Traduction Française pour le plugin Better EMS développer par @PNWParksFan -->
