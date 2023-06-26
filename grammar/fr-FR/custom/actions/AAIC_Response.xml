@@ -9,10 +9,8 @@
 		<string>également en route</string>
 		<string>en route également</string>
 		<string>répond aussi</string>
-		<string>répond avec</string>
-		<string>en route avec</string>
+		<string>répond avec</string> <!-- 1-L-24 -->
+		<string>en route avec</string> <!-- 1-L-24 -->
     </Phrases>
     <Target>AmbientAICallouts.API.Functions.AAIC_Response</Target>
 </Action>
-
-<!-- Traduction Française pour le plugin AmbientAICallouts développer par @ziipzaaapM16A4 et @TheUniT -->
