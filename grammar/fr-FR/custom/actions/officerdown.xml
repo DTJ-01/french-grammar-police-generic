@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>officerdown</Name>
+	    <Commands>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+        <string>officier au sol</string>
+        <string>officier a terre</string>
+        <string>officier mort</string>
+        <string>officier décéder</string>
+		<string>agent au sol</string>
+        <string>agent a terre</string>
+        <string>agent mort</string>
+        <string>agent décéder</string>
+		<string>policier au sol</string>
+        <string>policier a terre</string>
+        <string>policier mort</string>
+        <string>policier décéder</string>
+    </Phrases>
+   	<Target>BetterEMS.API.EMSFunctions.RespondToLocation</Target>
+	<Parameters>
+		<Parameter>
+			<Type>Rage.Vector3</Type>
+			<Value>player</Value>
+		</Parameter>
+		<Parameter>
+			<Type>sendFirstResponder</Type>
+			<Value>False</Value>
+		</Parameter>
+	</Parameters>
+</Action>
+
+<!-- Traduction Française pour le plugin Better EMS développer par @PNWParksFan -->
